@@ -2,7 +2,7 @@
 
 In this project I was given a dataset of Stock Market companies. It contains 2,268,000 rows of data divided into 3 different sheets for 2018, 2019, 2020 respectively.
 
-I have completed the analysis and have presented foloowing Data.
+I have completed the analysis and have presented following Data.
 
 For each company, the code will provide Ticker, Yearly Change, % Change, Total Stock Volume for the year, open price and close price for the year.
 
